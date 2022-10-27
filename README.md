@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
   </a>
   <a>
-     <img src="https://img.shields.io/badge/%3CApparentlyjR%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+     <img src="https://img.shields.io/badge/%3CSuchy%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
   
 </p>

@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74739998/162453229-86558a04-f28e-471e-97cf-24e5383aaf7c.png" width="200"/>
   <p align="center">
-    <strong>Howdy!, I'm jara155</strong>
+    <strong>Howdy!, I'm suchys</strong>
   </p>
 </p>
 -->
@@ -11,7 +11,7 @@
 
 ## About me
 >- 🌱 Lazy F__K.
->- 💻 Arch Enthusiast.
+>- 💻 Btw I use Arch
 >- 😄 He/Him
 <p align="left">
   <a href="https://www.instagram.com/suchy.sh/">
@@ -22,6 +22,9 @@
   </a>
   <a>
      <img src="https://img.shields.io/badge/%3CSuchy%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  </a>
+  <a href="https://twitch.tv/suchyholajf"1 alt"twitch">
+     <img src=https://img.shields.io/badge/twitch/status/:suchyholajf?style=social>
   </a>
   
 </p>

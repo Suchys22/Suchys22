@@ -15,7 +15,7 @@
 >- 💻 EndeavourOS
 >- 😄 He/Him
 <p align="left">
-  <a href="https://www.instagram.com/suchy.sh/">
+  <a href="https://www.instagram.com/suchyholajf/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
   </a>
   <a href="https://steamcommunity.com/id/suchyjecelkemretard/">

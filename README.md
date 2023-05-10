@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74739998/162453229-86558a04-f28e-471e-97cf-24e5383aaf7c.png" width="200"/>
   <p align="center">
-    <strong>Howdy!, I'm suchys</strong>
+    <strong>Scam!, I'm suchys</strong>
   </p>
 </p>
 -->
@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
----
 
+---
 ## Projects
 <div>
   <a href="https://github.com/Suchys22/CatCatcher">

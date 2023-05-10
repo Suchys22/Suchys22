@@ -12,6 +12,7 @@
 ## About me
 >- 🌱 Lazy F__K.
 >- 💻 Btw I use Arch
+>- 💻 EndeavourOS
 >- 😄 He/Him
 <p align="left">
   <a href="https://www.instagram.com/suchy.sh/">
